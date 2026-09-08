@@ -21,7 +21,9 @@
 
 # ඏ School Fees Management System (EFE)
 
-**Electronic Finance (EFE)** — A desktop financial management information system (FMIS) designed for universities to automate student tuition fee management, payment processing, course registration eligibility verification, and comprehensive financial reporting.
+**Electronic Finance (EFE)**: A desktop financial management information system (FMIS) designed for universities to automate student tuition fee management, payment processing, course registration eligibility verification, and comprehensive financial reporting.
+
+![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/AppImages/image1.png)
 
 ---
 
@@ -52,8 +54,6 @@
 
 
 ## 📌 Overview
-
-![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/AppImages/image1.png)
 
 ![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/AppImages/image2.png)
 

@@ -7,7 +7,7 @@ Complete documentation of the MySQL database structure, relationships, constrain
 ---
 
 
-![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/db_image_.png)
+![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/db_image.png)
 
 
 
