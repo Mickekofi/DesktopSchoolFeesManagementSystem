@@ -3,7 +3,7 @@
 ‎    <img src="https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/efe_logo.png" width="130">
 ‎  </a>
 ‎  
-‎  <h1 align="center"><strong>Mini Desktop School Fees Management System</strong></h1>
+‎  <h1 align="center"><strong>Desktop School Fees Management System</strong></h1>
 ‎  </a>
 ‎  <p align="center">
 ‎    <a href="">
@@ -21,9 +21,9 @@
 
 # ඏ School Fees Management System (EFE)
 
-**Electronic Finance (EFE)**: A desktop financial management information system (FMIS) designed for universities to automate student tuition fee management, payment processing, course registration eligibility verification, and comprehensive financial reporting.
+**Electronic Finance (EFE)**: An MVP financial management information system (FMIS) designed for universities to automate student tuition fee management, payment processing, course registration eligibility verification, and comprehensive financial reporting.
 
-![Preview](https://github.com/Mickekofi/DesktopSchoolFeesManagementSystem/blob/master/AppImages/image1.png)
+![Preview](https://github.com/Mickekofi/DesktopPhoneSalesManagementSystem/blob/master/AppImages/image1.png)
 
 ---
 
@@ -685,6 +685,6 @@ For questions or support:
 ---
 
 
-**Last Updated**: September 2026
+
 **Built With**: Microsoft Visual Studio 2022 VB.NET | Windows Forms | MySQL
 
